@@ -1,0 +1,15 @@
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.AssemblyInfoInputs.cache
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.AssemblyInfo.cs
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.sourcelink.json
+C:\Users\Togrul\LabTask\bin\Debug\net8.0\LibraryMenecmentSystem.exe
+C:\Users\Togrul\LabTask\bin\Debug\net8.0\LibraryMenecmentSystem.deps.json
+C:\Users\Togrul\LabTask\bin\Debug\net8.0\LibraryMenecmentSystem.runtimeconfig.json
+C:\Users\Togrul\LabTask\bin\Debug\net8.0\LibraryMenecmentSystem.dll
+C:\Users\Togrul\LabTask\bin\Debug\net8.0\LibraryMenecmentSystem.pdb
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.dll
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\refint\LibraryMenecmentSystem.dll
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.pdb
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\LibraryMenecmentSystem.genruntimeconfig.cache
+C:\Users\Togrul\LabTask\obj\Debug\net8.0\ref\LibraryMenecmentSystem.dll
