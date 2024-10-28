@@ -52,12 +52,15 @@
             }
             while (true)
             {
-                librarianService.GetAllLibrarians();
+               Librarian[] ls= librarianService.GetAllLibrarians();
+                for(int i = 0; i < ls.Length; i++)
+                {
+                    Console.WriteLine(ls[i].Name);
+                } 
                 break;
 
             }
-            LibraryCatalog libraryCatalog = new LibraryCatalog();
-            Console.WriteLine(libraryCatalog[2]); 
+          
 
 
 

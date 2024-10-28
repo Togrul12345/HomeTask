@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Togrul\\LabTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,44 +23,40 @@
       "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:ilibrarianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarycatalog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:libraryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\custombookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:custombookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:libraryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:librarymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\custombookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|solutionrelative:custombookexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1F3ED0D-FC27-49A3-B0BE-2E989524D69B}|LibraryMenecmentSystem.csproj|c:\\users\\togrul\\labtask\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +70,11 @@
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 188,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Librarian.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\Librarian.cs",
               "RelativeDocumentMoniker": "Librarian.cs",
@@ -123,52 +123,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LibrarianService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\LibrarianService.cs",
               "RelativeDocumentMoniker": "LibrarianService.cs",
               "ToolTip": "C:\\Users\\Togrul\\LabTask\\LibrarianService.cs",
               "RelativeToolTip": "LibrarianService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T16:19:31.407Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "ILibrarianService.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\ILibrarianService.cs",
               "RelativeDocumentMoniker": "ILibrarianService.cs",
               "ToolTip": "C:\\Users\\Togrul\\LabTask\\ILibrarianService.cs",
               "RelativeToolTip": "ILibrarianService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T16:16:15.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CustomBookException.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\CustomBookException.cs",
               "RelativeDocumentMoniker": "CustomBookException.cs",
               "ToolTip": "C:\\Users\\Togrul\\LabTask\\CustomBookException.cs",
               "RelativeToolTip": "CustomBookException.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T16:13:01.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T16:13:01.718Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "LibraryCatalog.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\LibraryCatalog.cs",
               "RelativeDocumentMoniker": "LibraryCatalog.cs",
               "ToolTip": "C:\\Users\\Togrul\\LabTask\\LibraryCatalog.cs",
               "RelativeToolTip": "LibraryCatalog.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T14:26:58.296Z",
               "EditorCaption": ""
@@ -188,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "struct.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\struct.cs",
               "RelativeDocumentMoniker": "struct.cs",
@@ -214,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Dvd.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\Dvd.cs",
               "RelativeDocumentMoniker": "Dvd.cs",
@@ -227,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Magazine.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\Magazine.cs",
               "RelativeDocumentMoniker": "Magazine.cs",
@@ -248,12 +247,11 @@
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T13:36:52.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T13:36:52.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "LibraryItem.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\LibraryItem.cs",
               "RelativeDocumentMoniker": "LibraryItem.cs",
@@ -266,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
               "Title": "LibraryMember.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\LibraryMember.cs",
               "RelativeDocumentMoniker": "LibraryMember.cs",
@@ -279,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
@@ -300,18 +298,17 @@
               "RelativeToolTip": "LibraryMenecmentSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-28T12:59:33.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-28T12:59:33.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Togrul\\LabTask\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Togrul\\LabTask\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T12:59:10.57Z",
               "EditorCaption": ""

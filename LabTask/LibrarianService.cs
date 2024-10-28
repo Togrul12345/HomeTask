@@ -28,10 +28,15 @@ namespace LibraryMenecmentSystem
                     {
                         Console.WriteLine($"{librarians[i].Name} silindi");
                         librarians[i] = null;
-                        break;
+                        return;
                     }
                 }
-                Console.WriteLine("librarian tapilmadi");
+                Console.WriteLine("tapilmadi");
+
+            }
+            else
+            {
+                Console.WriteLine("tapilmadi");
             }
            
            
